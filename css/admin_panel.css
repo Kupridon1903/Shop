@@ -1,0 +1,12 @@
+.img_src {
+    width: 50px;
+    height: 40px;
+}
+
+#img_col {
+    text-align: left;
+}
+
+#add_item {
+    margin-bottom: 20px;
+}

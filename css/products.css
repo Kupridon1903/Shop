@@ -1,0 +1,36 @@
+
+body {
+    color: #5a5a5a;
+}
+
+.marketing {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.marketing h2 {
+    padding-top: 20px;
+    margin-left: 50px;
+    text-align: left;
+}
+
+.prod_elem {
+    width: 30%;
+    display: inline-block;
+    margin-top: 30px;
+    position: relative;
+}
+
+.prod_elem span {
+    font-size: 1.2em;
+    padding-right: 20px;
+}
+
+.basket_main {
+    margin-bottom: 0;
+    min-height: 600px;
+}
+
+#number_item {
+    max-width: 70px;
+}
